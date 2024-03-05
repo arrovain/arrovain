@@ -17,16 +17,26 @@
   
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arrovain&label=Visitors&color=0e75b6&style=flat" alt="" /> <img src="https://img.shields.io/github/followers/arrovain?label=Followers&style=flat&color=0e75b6" alt=""/>
+    
  <a href="https://github.com/arrovain?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/arrovain"/></a>
- <a href="mailto:arrovain@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
-  </a>
+ 
+
+
+
   </p>
 
   <p align="center">
   <a href="https://github.com/arrovain"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Frontend%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
+<div align="center">
+
+  <p align="center">
+
+ <a align="center" href="www.linkedin.com/in/mahmut-içme-71a59b2a6" target="_blank" rel="noreferrer"><img src="images/linkedin-512.png" width="35" /></a>
+ <a align="center" href="mailto:arrovain@gmail.com" target="_blank" rel="noreferrer"><img src="images/gmail-logo-512.png" width="35"/></a>
+</p>
+</div>
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px">
   </p>
@@ -90,14 +100,6 @@
  
 <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center"> Contact <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">
 </h4>
-<div align="center">
-
-  <p align="center">
-
- <a align="center" href="www.linkedin.com/in/mahmut-içme-71a59b2a6" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="35" /></a>
- <a align="center" href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
-</p>
-</div>
 
 
 <div align="center">
