@@ -33,7 +33,7 @@
 
   <p align="center">
 
- <a align="center" href="www.linkedin.com/in/mahmuticme" target="_blank" rel="noreferrer"><img src="images/linkedin-512.png" width="35" /></a>
+ <a align="center" href="https://www.linkedin.com/in/mahmuticme"/><img src="images/linkedin-512.png" width="35" /></a>
  <a align="center" href="mailto:arrovain@gmail.com" target="_blank" rel="noreferrer"><img src="images/gmail-logo-512.png" width="35"/></a>
 </p>
 </div>
