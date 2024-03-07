@@ -27,7 +27,7 @@
   </p>
 
   <p align="center">
-  <a href="https://github.com/arrovain"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Frontend%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/arrovain"><img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻%20Frontend%20Developer;🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;🎨%20UI/UX%20%20Design;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 
 <h4 align="center"><br>
-  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Languages | Tools <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
+  <img width="30"  align="center"/> Languages | Tools <img width="30" align="center"/>
  </h4>
  
 <p align="center">
@@ -96,15 +96,8 @@
 
 
 
-<h4 align="center">
- 
-<img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center"> Contact <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">
-</h4>
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
 </div>
-<!-- ###### END OF SOCIAL MEDIA LINKS ##### -->
 
 
