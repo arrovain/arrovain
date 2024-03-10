@@ -47,14 +47,14 @@
  </h4>
  
 <p align="center">
-  <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+  <code><img align="center" width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img align="center" width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img align="center" width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
 </p>
 
 
@@ -63,8 +63,12 @@
 📖 Currently Learning 📖 
  </h4>
 
+<div align='center'>
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg" width="10%" alt="Ruby" /> 
+<img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="10%" alt="Go" /> 
+  
+</div>
 
-<code><img src="https://iconscout.com/icons/ruby" width="35" alt="Ruby" /></code>
 
 
 
@@ -82,7 +86,7 @@
 
  
  <div align="center">
-<a href="http://www.github.com/arrovain"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=arrovain&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats" /></a>
+<a href="http://www.github.com/arrovain"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=arrovain&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="" /></a>
 <a href="https://github.com/arrovain"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrovain&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="http://www.github.com/arrovain"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arrovain&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
 </div>
