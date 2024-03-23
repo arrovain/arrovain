@@ -67,8 +67,8 @@
  </h4>
 
 <div align='center'>
-<img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/1720090.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcxMTE0MDkwMiwicSI6bnVsbCwiaWF0IjoxNzEwODgxNzAyfQ__.b9961a0bdd90839e7f9391d45a0b90117db9f438325d3961320eda9d166fd1a9" width="4%" alt="Flutter" /> 
-<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="6%" alt="ReactNative" />
+<img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="9%" alt="Flutter" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="8%" alt="ReactNative" />
 
   
 </div>
