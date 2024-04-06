@@ -79,7 +79,7 @@
  </h4>
 
 <div align='center'>
-<img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="9%" alt="Flutter" /> 
+
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="8%" alt="ReactNative" />
 
   
