@@ -66,13 +66,16 @@
 <p align="center">
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
  <code><img width="10%" src=https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg></code>
-<code><img width="10%"  src="https://seeklogo.com/images/S/strapi-logo-2FB91334AF-seeklogo.com.png"></code>
 <code><img width="4%" src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="8%" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg"></code>
 </p>
-
+<p align="center">
+ <code><img height="35" width="10%" src="/images/strapi.svg"></code>
+  <code><img height="35" width="10%" src="/images/sentry (1).svg"></code>
+  <code><img height="35" width="10%" src="/images/cloudinary.svg"></code>
+</p>
 
 <h4 align="center">
 📖 Currently Learning 📖 
