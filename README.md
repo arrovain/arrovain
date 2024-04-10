@@ -75,6 +75,7 @@
  <code><img height="35" width="10%" src="/images/strapi.svg"></code>
   <code><img height="35" width="10%" src="/images/sentry (1).svg"></code>
   <code><img height="35" width="10%" src="/images/docker.svg"></code>
+  <code><img height="35" width="10%" src="/images/figma.svg"></code>
 
 
 </p>
