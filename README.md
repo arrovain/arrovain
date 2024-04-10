@@ -75,7 +75,7 @@
  <code><img height="35" width="10%" src="/images/strapi.svg"></code>
   <code><img height="35" width="10%" src="/images/sentry (1).svg"></code>
   <code><img height="35" width="10%" src="/images/docker.svg"></code>
-  <code><img height="35" width="5%" src="https://authjs.dev/img/logo/logo-xs.webp"></code>
+
 
 </p>
 
