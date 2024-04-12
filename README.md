@@ -71,10 +71,11 @@
   <code><img height="35" width="10%" src="/images/sentry (1).svg"></code>
   <code><img height="35" width="10%" src="/images/docker.svg"></code>
   <code><img height="35" width="10%" src="/images/figma.svg"></code>
-  <code><img height="35" width="10%" src="/images/vitejs.svg"></code>
-
+  <code><img height="35" width="10%" src="/images/vitejs.svg"></code
 </p>
-
+<p align="center">
+<code><img height="35" width="10%" src="https://daisyui.com/images/daisyui-logo/daisyui-logomark.svg"></code>
+</p>
 <h4 align="center">
 📖 Currently Learning 📖 
  </h4>
