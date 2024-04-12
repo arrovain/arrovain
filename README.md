@@ -1,13 +1,12 @@
 <img width=100% title="Arrovain" alt="Mahmut İÇME" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
-<a href="https://mahmuticme.vercel.app/
+<a href="https://icmeportfolio.vercel.app/"
 "/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </p>
 
 <p align="center">
-<a href="https://react-portfolio-ochre-ten.vercel.app/
-"/><img src="https://img.shields.io/badge/my_portfolio2-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+
 
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arrovain&label=Visitors&color=0e75b6&style=flat" alt="" /> <img src="https://img.shields.io/github/followers/arrovain?label=Followers&style=flat&color=0e75b6" alt=""/>
