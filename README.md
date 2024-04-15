@@ -7,13 +7,11 @@
 
 <p align="center">
 
-
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arrovain&label=Visitors&color=0e75b6&style=flat" alt="" /> <img src="https://img.shields.io/github/followers/arrovain?label=Followers&style=flat&color=0e75b6" alt=""/>
     
  <a href="https://github.com/arrovain?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/arrovain"/></a>
-
 
   </p>
 
@@ -74,6 +72,7 @@
 </p>
 <p align="center">
 <code><img height="35" width="10%" src="https://daisyui.com/images/daisyui-logo/daisyui-logomark.svg"></code>
+<code><img height="35" width="10%" src="/images/cloudinary.svg"></code>
 </p>
 <h4 align="center">
 📖 Currently Learning 📖 
@@ -90,7 +89,6 @@
 <h4 align="center">
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
 </h4>
-
 
  <div align="center">
 <a href="http://www.github.com/arrovain"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=arrovain&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="" /></a>
