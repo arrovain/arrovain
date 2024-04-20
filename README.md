@@ -75,6 +75,7 @@
 <code><img height="35" width="10%" src="/images/cloudinary.svg"></code>
 <code><img height="35" width="10%" src="/images/html-5-svgrepo-com.svg"></code>
 <code><img height="35" width="10%" src="/images/css-3-svgrepo-com.svg"></code>
+<code><img height="35" width="10%" src="https://www.svgrepo.com/show/373595/firebase.svg"></code>
 </p>
 <h4 align="center">
 📖 Currently Learning 📖 
