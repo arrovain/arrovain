@@ -79,6 +79,7 @@
 </p>
 <p align="center">
  <code><img height="35" width="10%" src="/images/shadcnui.svg"></code>
+ <code><img height="35" width="10%" src="/images/material-ui-svgrepo-com.svg"></code>
  
 </p>
 <h4 align="center">
