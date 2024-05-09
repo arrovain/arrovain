@@ -81,6 +81,7 @@
  <code><img height="35" width="10%" src="/images/material-ui-svgrepo-com.svg"></code>
  <code><img height="35" width="10%" src="/images/aws-svgrepo-com.svg"></code>
  <code><img height="35" width="10%" src="/images/openai-svgrepo-com.svg"></code>
+ <code><img height="35" width="10%" src="/images/supabase.svg"></code>
  
 </p>
 <h4 align="center">
