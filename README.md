@@ -71,7 +71,6 @@
   <code><img height="35" width="10%" src="/images/vitejs.svg"></code
 </p>
 <p align="center">
-<code><img height="35" width="10%" src="https://daisyui.com/images/daisyui-logo/daisyui-logomark.svg"></code>
 <code><img height="35" width="10%" src="/images/cloudinary.svg"></code>
 <code><img height="35" width="10%" src="/images/html-5-svgrepo-com.svg"></code>
 <code><img height="35" width="10%" src="/images/css-3-svgrepo-com.svg"></code>
