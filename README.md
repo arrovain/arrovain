@@ -91,8 +91,8 @@
 
 <div align="center">
 
-<code><img height="45" width="15%"  src="https://www.svgrepo.com/show/452156/angular.svg" width="8%" alt="Angular" /> </code>
-<code><img height="45" width="15%"  src="https://www.svgrepo.com/show/473592/dotnet.svg" width="8%" alt="Angular" /> </code>
+<code><img height="40" width="10%"  src="https://www.svgrepo.com/show/452156/angular.svg" width="8%" alt="Angular" /> </code>
+<code><img height="40" width="10%"  src="https://www.svgrepo.com/show/473592/dotnet.svg" width="8%" alt="Angular" /> </code>
 
 </div>
 
