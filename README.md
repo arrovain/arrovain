@@ -89,9 +89,10 @@
 📖 Currently Learning 📖 
  </h4>
 
-<div align='center'>
+<div align="center">
 
-<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="8%" alt="ReactNative" />
+<code><img height="45" width="15%"  src="https://www.svgrepo.com/show/452156/angular.svg" width="8%" alt="Angular" /> </code>
+<code><img height="45" width="15%"  src="https://www.svgrepo.com/show/473592/dotnet.svg" width="8%" alt="Angular" /> </code>
 
 </div>
 
