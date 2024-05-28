@@ -68,7 +68,8 @@
   <code><img height="35" width="10%" src="/images/sentry (1).svg"></code>
   <code><img height="35" width="10%" src="/images/docker.svg"></code>
   <code><img height="35" width="10%" src="/images/figma.svg"></code>
-  <code><img height="35" width="10%" src="/images/vitejs.svg"></code
+  <code><img height="35" width="10%" src="/images/vitejs.svg"></code>
+  <code><img alt="styled-components" src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4"></code>
 </p>
 <p align="center">
 <code><img height="35" width="10%" src="/images/cloudinary.svg"></code>
