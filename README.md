@@ -36,18 +36,21 @@
  </h4>
  
 <p align="center">
-  <code><img width="10%" height="42" src="/images/js-svgrepo-com.svg"></code>
+    <code><img width="10%" height="56" src="https://cdn.svgporn.com/logos/nextjs.svg"></code>
   <code><img  width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img  width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img  width="13%" src="/images/laravel.svg"></code>
-   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img  width="13%" height="45" src="https://cdn.svgporn.com/logos/php.svg"></code>
+   <code><img width="10%" height="49" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+   <code><img width="10%" height="49" src="/images/js-svgrepo-com.svg"></code>
+ 
+  
  
   
  
   </p>
  <p align="center">
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
