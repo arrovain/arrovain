@@ -40,9 +40,9 @@
   <code><img  width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img  width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img  width="13%" src="/images/laravel.svg"></code>
-  <code><img  width="13%" height="45" src="https://cdn.svgporn.com/logos/php.svg"></code>
-   <code><img width="10%" height="49" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-   <code><img width="10%" height="49" src="/images/js-svgrepo-com.svg"></code>
+  <code><img  width="11%" height="38" src="https://cdn.svgporn.com/logos/php.svg"></code>
+   <code><img width="10%" height="38" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+   <code><img width="10%" height="39" src="/images/js-svgrepo-com.svg"></code>
  
   
  
