@@ -37,6 +37,7 @@
  
 <p align="center">
     <code><img width="10%" height="56" src="https://cdn.svgporn.com/logos/nextjs.svg"></code>
+  <code><img height="40" width="10%"  src="https://cdn.svgporn.com/logos/vue.svg" width="8%" alt="Vue" /> </code>
   <code><img  width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img  width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img  width="13%" src="/images/laravel.svg"></code>
@@ -57,6 +58,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="10%" src="https://vectorwiki.com/images/ScXaS__prisma.svg"></code>
   <code><img width="5%"  src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg"></code>
+  <code><img width="10%" src=https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg></code>
   
 </p>
 <p align="center">
@@ -73,7 +75,7 @@
   <code><img height="35" width="10%" src="/images/docker.svg"></code>
   <code><img height="35" width="10%" src="/images/figma.svg"></code>
   <code><img height="35" width="10%" src="/images/vitejs.svg"></code>
-  <code><img alt="styled-components" src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4"></code>
+
 </p>
 <p align="center">
 <code><img height="35" width="10%" src="/images/cloudinary.svg"></code>
@@ -89,15 +91,12 @@
  <code><img height="35" width="10%" src="/images/openai-svgrepo-com.svg"></code>
 
 </p>
-<h4 align="center">
-📖 Currently Learning 📖 
- </h4>
+
 
 <div align="center">
 
-<code><img height="40" width="10%"  src="https://www.svgrepo.com/show/452156/angular.svg" width="8%" alt="Angular" /> </code>
-<code><img height="40" width="10%"  src="https://www.svgrepo.com/show/473592/dotnet.svg" width="8%" alt="Angular" /> </code>
-<code><img height="40" width="10%"  src="https://cdn.svgporn.com/logos/vue.svg" width="8%" alt="Angular" /> </code>
+
+
 
 </div>
 
