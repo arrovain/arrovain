@@ -39,9 +39,9 @@
   <code><img  width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
   <code><img width="5%" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
-   <code><img width="13%" height="44" src="/images/js-svgrepo-com.svg"></code>
-  <code><img height="38" width="15%" src="/images/html-5-svgrepo-com.svg"></code>
-<code><img height="38" width="15%" src="/images/css-3-svgrepo-com.svg"></code>
+   <code><img width="9%" height="44" src="/images/js-svgrepo-com.svg"></code>
+  <code><img height="38" width="12%" src="/images/html-5-svgrepo-com.svg"></code>
+<code><img height="38" width="12%" src="/images/css-3-svgrepo-com.svg"></code>
   </p>
 <h4 align="center"> Backend </h4>
  <p align="center">
