@@ -31,67 +31,62 @@
   <img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px">
   </p>
 
+
+<h4 align="center"> Frontend </h4>
+<p align="center">
+    <code><img height="40" width="9%"  src="https://cdn.svgporn.com/logos/vue.svg" width="8%" alt="Vue" /> </code>
+      <code><img  width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img  width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+     <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <code><img width="5%" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
+   <code><img width="13%" height="44" src="/images/js-svgrepo-com.svg"></code>
+  <code><img height="38" width="15%" src="/images/html-5-svgrepo-com.svg"></code>
+<code><img height="38" width="15%" src="/images/css-3-svgrepo-com.svg"></code>
+  </p>
+<h4 align="center"> Backend </h4>
+ <p align="center">
+    <code><img  width="13%" src="/images/laravel.svg"></code>
+    <code><img  width="10%" height="38" src="https://cdn.svgporn.com/logos/php.svg"></code>
+    <code><img width="12%" src=https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <h4 align="center"><br>
-  <img width="30"  align="center"/> Languages | Tools <img width="30" align="center"/>
+  <img width="30"  align="center"/> Other Tools I've Used At Least Once<img width="30" align="center"/>
  </h4>
  
-<p align="center">
-    <code><img width="10%" height="56" src="https://cdn.svgporn.com/logos/nextjs.svg"></code>
-  <code><img height="40" width="10%"  src="https://cdn.svgporn.com/logos/vue.svg" width="8%" alt="Vue" /> </code>
-  <code><img  width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img  width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img  width="13%" src="/images/laravel.svg"></code>
-  <code><img  width="11%" height="38" src="https://cdn.svgporn.com/logos/php.svg"></code>
-   <code><img width="10%" height="38" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-   <code><img width="10%" height="39" src="/images/js-svgrepo-com.svg"></code>
- 
-  
- 
-  
- 
-  </p>
- <p align="center">
-   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width="6%" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://vectorwiki.com/images/ScXaS__prisma.svg"></code>
-  <code><img width="5%"  src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg"></code>
-
   
 </p>
 <p align="center">
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
- <code><img width="10%" src=https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg></code>
-<code><img width="4%" src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="8%" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg"></code>
-</p>
-<p align="center">
- <code><img height="35" width="10%" src="/images/strapi.svg"></code>
-  <code><img height="35" width="10%" src="/images/sentry (1).svg"></code>
-  <code><img height="35" width="10%" src="/images/docker.svg"></code>
-  <code><img height="35" width="10%" src="/images/figma.svg"></code>
-  <code><img height="35" width="10%" src="/images/vitejs.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="8%" src="https://vectorwiki.com/images/ScXaS__prisma.svg"></code>
+  <code><img width="3%" src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png"></code>
+ <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 
 </p>
 <p align="center">
-<code><img height="35" width="10%" src="/images/cloudinary.svg"></code>
-<code><img height="35" width="10%" src="/images/html-5-svgrepo-com.svg"></code>
-<code><img height="35" width="10%" src="/images/css-3-svgrepo-com.svg"></code>
-<code><img height="35" width="10%" src="https://www.svgrepo.com/show/373595/firebase.svg"></code>
-   <code><img height="35" width="10%" src="/images/supabase.svg"></code>
+ <code><img height="35" width="8%" src="/images/strapi.svg"></code>
+  <code><img height="35" width="8%" src="/images/sentry (1).svg"></code>
+  <code><img height="35" width="8%" src="/images/docker.svg"></code>
+  <code><img height="35" width="8%" src="/images/figma.svg"></code>
+  <code><img height="35" width="8%" src="/images/vitejs.svg"></code>
+
 </p>
 <p align="center">
- <code><img height="35" width="10%" src="/images/shadcnui.svg"></code>
- <code><img height="35" width="10%" src="/images/material-ui-svgrepo-com.svg"></code>
- <code><img height="35" width="10%" src="/images/aws-svgrepo-com.svg"></code>
- <code><img height="35" width="10%" src="/images/openai-svgrepo-com.svg"></code>
+ <code><img width="6%" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg"></code>
+<code><img height="35" width="8%" src="/images/cloudinary.svg"></code>
+<code><img height="35" width="8%" src="https://www.svgrepo.com/show/373595/firebase.svg"></code>
+<code><img height="35" width="8%" src="/images/supabase.svg"></code>
 
 </p>
-
+<p align="center">
+  <code><img width="5%" height="35"   src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg"></code>
+ <code><img height="35" width="8%" src="/images/shadcnui.svg"></code>
+ <code><img height="35" width="8%" src="/images/material-ui-svgrepo-com.svg"></code>
+<p align="center">
+ <code><img height="35" width="8%" src="/images/aws-svgrepo-com.svg"></code>
+ <code><img height="35" width="8%" src="/images/openai-svgrepo-com.svg"></code>
+</p>
 
 <div align="center">
 
