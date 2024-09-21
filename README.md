@@ -36,6 +36,7 @@
 <p align="center">
     <code><img height="40" width="9%"  src="https://cdn.svgporn.com/logos/vue.svg" width="8%" alt="Vue" /> </code>
       <code><img  width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img height="41" width="5%" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"></code>
   <code><img  width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
   <code><img width="5%" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
