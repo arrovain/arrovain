@@ -34,22 +34,25 @@
 
 <h4 align="center"> Frontend </h4>
 <p align="center">
-    <code><img height="40" width="9%"  src="https://cdn.svgporn.com/logos/vue.svg" width="8%" alt="Vue" /> </code>
-      <code><img  width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img height="41" width="5%" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"></code>
-  <code><img  width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width="5%" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
-   <code><img width="9%" height="44" src="/images/js-svgrepo-com.svg"></code>
+    <code><img height="38" width="9%"  src="https://cdn.svgporn.com/logos/vue.svg" width="8%" alt="Vue" /> </code>
+      <code><img  height="38"  width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img  height="38" width="5%" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"></code>
+  <code><img  width="10%"  height="38" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+     <code><img width="10%"  height="38" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <code><img width="5%"  height="38" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
+   <code><img width="9%"  height="38" src="/images/js-svgrepo-com.svg"></code>
   <code><img height="38" width="12%" src="/images/html-5-svgrepo-com.svg"></code>
 <code><img height="38" width="12%" src="/images/css-3-svgrepo-com.svg"></code>
   </p>
 <h4 align="center"> Backend </h4>
  <p align="center">
-    <code><img  width="13%" src="/images/laravel.svg"></code>
-    <code><img  width="10%" height="38" src="https://cdn.svgporn.com/logos/php.svg"></code>
-    <code><img width="12%" src=https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg></code>
-   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+    <code><img  height="38"  width="11%" src="/images/laravel.svg"> </code>
+    <code><img  height="38"  width="8%" height="28" src="https://cdn.svgporn.com/logos/php.svg"></code>
+    <code><img  height="38" width="12%" src=https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg></code>
+    <code><img  height="38" width="6%" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg"></code>
+   <code><img  height="38" width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+   <code><img  height="38" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
+ </p>
 <h4 align="center"><br>
   <img width="30"  align="center"/> Other Tools I've Used At Least Once<img width="30" align="center"/>
  </h4>
@@ -74,7 +77,6 @@
 
 </p>
 <p align="center">
- <code><img width="6%" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg"></code>
 <code><img height="35" width="8%" src="/images/cloudinary.svg"></code>
 <code><img height="35" width="8%" src="https://www.svgrepo.com/show/373595/firebase.svg"></code>
 <code><img height="35" width="8%" src="/images/supabase.svg"></code>
@@ -90,10 +92,6 @@
 </p>
 
 <div align="center">
-
-
-
-
 </div>
 
 <br />
